@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="mokee" 
+           fetch="https://github.com"  
+           review="review.mfunz.com" 
+           revision="refs/heads/mkl-mr1" /> 
+
+
+  <project name="CyanogenMod/android_device_motorola_victara" path="device/motorola/victara" remote="github" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="CyanogenMod/android_kernel_motorola_msm8974" path="kernel/motorola/msm8974" remote="github" />
+  <project name="MoKee/android_vendor_motorola_victara" path="vendor/motorola/victara" remote="mokee" />
+</manifest>
