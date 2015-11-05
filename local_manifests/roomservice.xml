@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="MoKee/android_device_motorola_victara" path="device/motorola/victara" remote="mokee" />
+  <project name="MoKee/android_vendor_motorola_victara" path="vendor/motorola/victara" remote="mokee" />
+  <project name="MoKee/android_device_qcom_common" path="device/qcom/common" remote="mokee" />
+  <project name="CyanogenMod/android_kernel_motorola_msm8974" path="kernel/motorola/msm8974" remote="third" />
+  <project name="MoKee/android_device_motorola_victara_retcn" path="device/motorola/victara_retcn" remote="mokee" />
+  <project name="MoKee/android_vendor_motorola_victara_retcn" path="vendor/motorola/victara_retcn" remote="mokee" />
+  <project name="MoKee/android_kernel_motorola_victara_retcn" path="kernel/motorola/victara_retcn" remote="mokee" />
+</manifest>
